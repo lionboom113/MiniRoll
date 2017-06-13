@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+@model Template.Domain.Entities.Roll
+<h4>@Model.Id</h4>
+<p>This is the roll from @Model.RollRangeBoundaryBottom to @Model.RollRangeBoundaryTop</p>
+<h4>Result:</h4>
+@foreach (var result in Model.Result)
+{
+    <h2>@result</h2>
+}
+<a href="~/Home/RollMore/@Model.Id" class="btn btn-default">Roll more</a>

@@ -1,0 +1,6 @@
+C:\Users\Huynh-t\Downloads\ProjectTemplate_ASP-master-805aa2421388cceb06ffa45d1071d642847f74b7\ProjectTemplate_ASP-master-805aa2421388cceb06ffa45d1071d642847f74b7\TemplateMin\Template.Core\obj\Debug\Template.Core.csprojResolveAssemblyReference.cache
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\Template.Core.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\Template.Core.pdb
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\obj\Debug\Template.Core.csprojResolveAssemblyReference.cache
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\obj\Debug\Template.Core.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\obj\Debug\Template.Core.pdb

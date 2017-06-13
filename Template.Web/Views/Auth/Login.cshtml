@@ -1,0 +1,15 @@
+﻿@model Template.Domain.Models.AuthenticateChallengeModel
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+    <p>UserName : @Html.TextBoxFor(e => e.UserName)</p>
+    <p>Password : @Html.PasswordFor(e => e.Password)</p>
+    <p><input type="submit" value="ログイン" /></p>
+}
+
