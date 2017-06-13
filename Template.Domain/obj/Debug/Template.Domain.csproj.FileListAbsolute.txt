@@ -37,3 +37,11 @@ C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\Newto
 C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\obj\Debug\Template.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\obj\Debug\Template.Domain.dll
 C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\obj\Debug\Template.Domain.pdb
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\System.Data.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\System.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\System.Net.Http.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\System.Xml.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Domain\bin\Debug\System.Xml.Linq.dll

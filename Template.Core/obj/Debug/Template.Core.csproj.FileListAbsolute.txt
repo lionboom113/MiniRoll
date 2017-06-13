@@ -4,3 +4,10 @@ C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\Templat
 C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\obj\Debug\Template.Core.csprojResolveAssemblyReference.cache
 C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\obj\Debug\Template.Core.dll
 C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\obj\Debug\Template.Core.pdb
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\System.Data.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\System.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\System.Net.Http.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\System.Xml.dll
+C:\Users\Huynh-t\Documents\AllRandom\TemplateMin\Template.Core\bin\Debug\System.Xml.Linq.dll
